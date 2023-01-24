@@ -1,0 +1,39 @@
+html {
+    font: 14px Helvetica, sans-serif;
+    background: black;
+    color: white;
+  }
+  
+  * {
+    box-sizing: border-box;
+    margin-bottom: 1rem;
+  }
+  
+  h1,
+  p {
+    max-width: 600px;
+  }
+  
+  h1 {
+    font-size: 3em;
+    word-break: break-word;
+    -webkit-hyphens: auto;
+  }
+  
+  div {
+    display: inline-block;
+    width: 10%;
+    margin-right: -4px;
+    background: white;
+    border: solid 4px white;
+    border-radius: 15px
+  
+  }
+  
+  section {
+    overflow: hidden;
+  }
+  
+  #speed {
+    font-size: 2.4em;
+  }
